@@ -47,14 +47,6 @@ La experiencia de vivir en dos países ha ampliado mi capacidad de resiliencia y
 | **Embudo de Conversión + A/B Test** | Análisis estadístico, retención , cohortes y pruebas de hipótesis | Python, SciPy |
 
 ---
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cristianavsa&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristianavsa&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
 
 ## 📚 Formación
 

@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Cristian Obed Ávila Saldívar</h1>
-<h3 align="center">Data Analyst | Python | SQL | Finanzas | Visualización</h3>
+<h3 align="center">Data Analyst | Python | SQL | Excel | VBA | Finanzas | Visualización</h3>
 
 <p align="center">
   <a href="https://github.com/Cristianavsa">

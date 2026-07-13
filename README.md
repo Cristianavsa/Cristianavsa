@@ -41,7 +41,7 @@ La experiencia de vivir en dos países ha ampliado mi capacidad de resiliencia y
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| **Análisis de Recesiones (FRED API)** | Modelos económicos, visualizaciones y reportes ejecutivos | Python, pandas, APIs |
+| **Análisis de Portafolio de Acciones con ayuda de (FRED API)** | Modelos económicos, visualizaciones y reportes ejecutivos | Python, pandas, APIs |
 | **Análisis de Ventas de Videojuegos y Tendencias por Plataforma (2011–2016)** | Segmentación y métricas clave | Python, SQL |
 | **Dashboard de Marketing** | KPIs ejecutivos, storytelling y visualización | Tableau |
 | **Embudo de Conversión + A/B Test** | Análisis estadístico, retención , cohortes y pruebas de hipótesis | Python, SciPy |

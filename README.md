@@ -33,6 +33,8 @@ La experiencia de vivir en dos países ha ampliado mi capacidad de resiliencia y
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-0E5C8B?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
@@ -45,6 +47,7 @@ La experiencia de vivir en dos países ha ampliado mi capacidad de resiliencia y
 | **Análisis de Ventas de Videojuegos y Tendencias por Plataforma (2011–2016)** | Segmentación y métricas clave | Python, SQL |
 | **Dashboard de Marketing** | KPIs ejecutivos, storytelling y visualización | Tableau |
 | **Embudo de Conversión + A/B Test** | Análisis estadístico, retención , cohortes y pruebas de hipótesis | Python, SciPy |
+| **Dashboard de Ventas (2022–2026)** | Análisis integral de ventas, descuentos, variaciones, tendencias mensuales y distribución por categoría y canal. Incluye KPIs ejecutivos y visualizaciones avanzadas en Power BI. | Power BI, DAX |
 
 ---
 

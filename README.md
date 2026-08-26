@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Cristian Obed Ávila Saldívar</h1>
-<h3 align="center">Data Analyst | Python | SQL | Excel | VBA | Finanzas | Visualización</h3>
+<h3 align="center">Data Analyst | Python | SQL | Excel | VBA | Power Pivot | Power Query | Power BI | Tableau | Visualización Análisis financiero‑operativo</h3>
 
 <p align="center">
   <a href="https://github.com/Cristianavsa">
@@ -35,6 +35,8 @@ La experiencia de vivir en dos países ha ampliado mi capacidad de resiliencia y
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/DAX-0E5C8B?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Pivot-185ABD?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
